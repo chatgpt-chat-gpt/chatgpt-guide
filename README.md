@@ -1,20 +1,20 @@
-# ChatGPT 国内使用指南：支持 GPT-5，免费使用 ChatGPT 中文版~【1月持续更新】
+# ChatGPT 国内使用指南：支持 GPT-5，免费使用 ChatGPT 中文版~【6月持续更新】
 
-> **更新日期：2026-01-29**
+> **更新日期：2026-06-22**
 
 很多人都在关注“国内如何使用ChatGPT？”
 
-其实很简单，国内能轻松使用的 [**ChatGPT 中文版**](https://chat.aihuoya.com)，**无需魔法**，支持 **GPT-5、4、4o、o1** 及中文版功能。   
-本文提供全面的 [**ChatGPT 中文版**](https://xsimplechat.com) 使用方法，涵盖国内可用的 [ChatGPT 镜像网站](https://chat.aihuoya.com)推荐 和详细使用教程，帮助您快速掌握 ChatGPT 的使用。
+其实很简单，国内能轻松使用的 [**ChatGPT 中文版**](https://ai.luckaichat.com)，**无需魔法**，支持 **GPT-5、4、4o、o1** 及中文版功能。   
+本文提供全面的 [**ChatGPT 中文版**](https://lazymanchat.com) 使用方法，涵盖国内可用的 [ChatGPT 镜像网站](https://ai.luckaichat.com)推荐 和详细使用教程，帮助您快速掌握 ChatGPT 的使用。
 
-> **ChatGPT 中文版入口：** [https://aihuoya.com](https://chat.aihuoya.com)   
-> **ChatGPT 镜像网站直达：** [https://xsimplechat.com](https://xsimplechat.com)
+> **ChatGPT 中文版入口：** [https://luckaichat.com](https://ai.luckaichat.com)   
+> **ChatGPT 镜像网站直达：** [https://lazymanchat.com](https://lazymanchat.com)
 
 ---
 
 ## 1、什么是 ChatGPT 中文版？
 
-[**ChatGPT 中文版**](https://chat.aihuoya.com) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。
+[**ChatGPT 中文版**](https://ai.luckaichat.com) 是 OpenAI 开发的 ChatGPT 模型的中文使用版本，专为中文用户设计，提供更流畅、更精准的 AI 对话体验。
 
 相较于官网，ChatGPT 中文版在以下方面更适合国内用户：
 
@@ -26,8 +26,8 @@
 
 以下是我们精选的国内优质 ChatGPT 中文版镜像网站，无需魔法即可使用：
 
-*   **[xsimplechat.com](https://xsimplechat.com)** - ChatGPT中文版，运营2年多，支持 GPT5、GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
-*   **[aihuoya.com](https://chat.aihuoya.com)** - ChatGPT 中文站，支持 GPT-5、4o、o1、o3 及 DeepSeek R1、Claude 4.5 sonnet、Grok 4 最先进的模型，无限使用~
+*   **[lazymanchat.com](https://lazymanchat.com)** - ChatGPT中文版，运营2年多，支持 GPT5、GPT4、4o 以及 o1，支持 AI绘画，扫码就能用~
+*   **[luckaichat.com](https://ai.luckaichat.com)** - ChatGPT 中文站，支持 GPT-5、4o、o1、o3 及 DeepSeek R1、Claude 4.5 sonnet、Grok 4 最先进的模型，无限使用~
 *   **[chatgpt-chinese.com](https://www.chatgpt-chinese.com)** - ChatGPT镜像网站，运营2年多，支持 GPT5、GPT-4、4o 以及 o1，AI文件、AI PPT、AI助手、AI插件功能、思维导图~
 *   **[gpt4us.org](https://gpt4us.org)** - ChatGPT镜像网站，支持 GPT5、4o，简单便捷~
 *   **[chatgpt-gpt.com](https://www.chatgpt-gpt.com)** - 免费ChatGPT，支持 GPT5、4o 支持 MJ 绘画
@@ -55,7 +55,7 @@
 
 ## 5、国内如何使用 ChatGPT 中文版？
 
-1.  **选择镜像网站**：访问推荐的镜像站点（如 [火鸭AI https://aihuoya.com](https://chat.aihuoya.com)）。
+1.  **选择镜像网站**：访问推荐的镜像站点（如 [Luck AI https://luckaichat.com](https://ai.luckaichat.com)）。
 2.  **扫码登录**：使用扫码功能登录，进入聊天页面，输入问题即可获得回答。
 3.  **选择模型**：根据需求选择 **GPT-5** 或 **GPT-5.1** 模型。
 4.  **开始对话**：享受流畅的中文聊天体验，支持写作、编程、翻译、办公等多种功能。
